@@ -4,7 +4,7 @@
 This is a program that finds all possible shortest paths in a map (graph). 
 Map is provided as a XML file with a strict content format. After calculation of all shortest paths, program generates an output JSON file that contains information about runtime in milliseconds and list of all shortest paths.
 
-XML file content should be strictly formatted and should containt only the following tags:
+XML file content should be strictly formatted and should contain only the following tags:
 - map
 - cells
 - cell
@@ -37,7 +37,7 @@ Example:
 ## How to run?
 
 You can run this program through CLI or any JAVA IDE.
-This program has a mandatory parameter which is a path to the XML input file that represents a map (graph) and optional parameter which is destination path for generated JSON file. 
+This program has a mandatory parameter which is a path to the XML input file that represents a map (graph) and an optional parameter which is destination path for the output JSON file. 
 You can provide absolute or relative path to the file. If path contains any spaces, use quote marks.
 This repository has an executable jar file in the **exe_jar** folder.
 
