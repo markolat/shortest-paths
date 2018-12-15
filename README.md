@@ -39,7 +39,7 @@ Example:
 You can run this program through CLI or any JAVA IDE.  
 This program has a mandatory parameter which is a path to the XML input file that represents a map (graph) and an optional parameter which is destination path for the output JSON file.  
 You can provide absolute or relative path to the file. If path contains any spaces, use quote marks.  
-This repository has an executable jar file in the **exe_jar** folder.
+This repository has an executable jar file in the **jar_exe** folder.
 
 Examples:
 ```sh
