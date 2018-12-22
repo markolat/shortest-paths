@@ -34,6 +34,43 @@ Example:
 </map>
 ```
 
+Example of output file:
+```json
+{
+	"execution_time_in_ms": 10,	
+	"paths": [
+		{
+			"points":[
+				{
+					"row": 1,
+					"col": "C"
+				},
+				{
+					"row": 1,
+					"col": "B"
+				},
+				{
+					"row": 2,
+					"col": "B"
+				},			
+				{
+					"row": 3,
+					"col": "B"
+				},
+				{
+					"row": 3,
+					"col": "C"
+				},
+				{
+					"row": 4,
+					"col": "C"
+				}
+			]
+		}
+	]
+}
+```
+
 ## How to run?
 
 You can run this program through CLI or any JAVA IDE.  
