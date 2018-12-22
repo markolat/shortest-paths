@@ -80,10 +80,10 @@ This repository has an executable jar file in the **jar_exe** folder.
 
 Examples:
 ```sh
-$ java -jar <path_to_jar_executable>/<file_name>.jar "<path_to_xml_file/<file_name>.xml" "<destination_path_for_output_file>"
+$ java -jar path_to_jar_executable/file_name.jar "path_to_xml_file/file_name.xml" "destination_path_for_output_file"
 ```
 
 ```sh
-$ java -jar <path_to_jar_executable>/<file_name>.jar "<path_to_xml_file/<file_name>.xml"
+$ java -jar path_to_jar_executable/file_name.jar "path_to_xml_file/file_name.xml"
 ```
 
